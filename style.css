@@ -8,7 +8,7 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 20px 30px;
   cursor: pointer;
   border-radius: 7px 7px;
 
@@ -18,12 +18,12 @@
 color: rgb(255, 255, 255);
 background-color: rgb(199, 36, 36);
 padding: 15px 32px;
-text-align:right;
+text-align:center;
 text-size-adjust: 14;
 text-decoration: none;
 display: inline-block;
 font-size: 16px;
-margin: 4px 2x;
+margin: 50px;
 cursor: pointer;
 border-radius: 7px 7px;
 
