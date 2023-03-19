@@ -1,6 +1,7 @@
 .button {
     border: none;
-  color: white;
+    background-color: green;
+  color: rgb(255, 255, 255);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -11,7 +12,7 @@
 
 }
 .title {
-    
+    padding: 15px 50px ;
    border: currentColor;
 }
 .violet {
